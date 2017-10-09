@@ -1,2 +1,6 @@
 .sass-cache/
 *.css.map
+.tscache/
+build/
+dist/
+node_modules/
