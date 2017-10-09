@@ -1,0 +1,32 @@
+{"nav": {
+	"social" : [
+		{
+			"display": true,
+			"font-icon": "icon-git-square",
+			"url": "https://github.com/tkrofecheck"
+		},
+		{
+			"display": true,
+			"font-icon": "icon-linkedin-square",
+			"url": "http://www.linkedin.com/in/tkrofecheck"
+		}
+	],
+
+	"site-links" : [
+		{
+			"display": true,
+			"text": "About",
+			"class": "about-lnk"
+		},
+		{
+			"display": true,
+			"text": "Resume",
+			"class": "resume-lnk"
+		},
+		{
+			"display": true,
+			"text": "Portfolio",
+			"class": "portfolio-lnk"
+		}
+	]
+}}

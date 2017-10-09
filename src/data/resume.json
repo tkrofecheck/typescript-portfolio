@@ -1,0 +1,209 @@
+{
+  "sections": [
+    {
+      "display": true,
+      "name": "Summary",
+      "text": "Over 13 years of progressive, comprehensive experience as an innovative web developing professional. A distinguished worker acknowledged for positive rapport among co-workers and clients. Detail oriented, with a proven ability to successfully contribute to company objectives. Well balanced workload of projects and tight deadlines in a fast paced environment. Aspiring to enhance skill set from cutting-edge technologies utilizing HTML5, CSS3, and JavaScript."
+    },
+    {
+      "display": true,
+      "name": "Professional Experience",
+      "jobs": [
+        {
+          "company": "WebMD",
+          "city": "New York, NY",
+          "role": {
+            "name": "Senior Web Developer / Sponsorship + Revenue",
+            "duration": "2015 - Present",
+            "items": [
+              "Automated deployment builds with the use of Grunt and Node Package Manager (NPM). ",
+              "Optimized video player code by reducing AMD module to make 1 HTTP request through requireJS optimization inside grunt build. ",
+              "Implemented XSLT for transforming bulky XML from Documentum into HTML, JavaScript, Handlebars templates and other front-end formats. ",
+              "Integrated various AMD modules for use within an editorial CMS. ",
+              "Primary developer for revenue and sponsorship video player (Akamai AMP Premier v63) used across WebMD website. ",
+              "Built a fully responsive framework, reducing program setup time by 40%, thus removing the need for a separate mobile-process. ",
+              "Technical documentation provided for implementing modules within PageBuilder CMS for editorial team. ",
+              "Provide support to teams outside of IT which include publishing, product owners, PPM, Ad Ops, and Beacon (Omniture team). "
+            ]
+          }
+        },
+        {
+          "company": "Time Inc.",
+          "city": "New York, NY",
+          "role": {
+            "name": "Consulting Engineer / Consumer Marketing + Revenue",
+            "duration": "June 2015 - Aug 2015",
+            "items": [
+              "Knowledge transfer of codebase, documentation and environment setup to off-shore team. ",
+              "Fixed merge conflicts in Git Repository by off-shore, post hand-off. "
+            ]
+          }
+        },
+        {
+          "company": "Time Inc.",
+          "city": "New York, NY",
+          "role": {
+            "name": "Front-End Developer / Consumer Marketing + Revenue",
+            "duration": "2012 - Present",
+            "items": [
+              "Coordinated with QA testers for end-to-end unit testing and post-production testing. ",
+              "Supervised the work of 2 other front-end developers. ",
+              "Updated, modified and expanded existing iOS web applications. ",
+              "Trained 3 equipment operators, data entry and user personnel. ",
+              "Developed web applications for Apple iPad/iPhone and Kindle Fire platforms. ",
+              "Developed Time For Kids Classroom application with student / teacher web views and classroom assessments. ",
+              "Developed a responsive jQuery mini magazine web-based reader for marketing to replace a minimally supported Adobe Flash reader. ",
+              "Provided technical and development support to marketing JavaScript advertisements used across all Time Inc. brands. ",
+              "Implemented a custom filter to determine special issues from weekly / monthly issues not native to the Adobe DPS APIs. ",
+              "Produced reusable Omniture code to deliver descriptive user actions and page views for readable and effective reporting in SiteCatalyst. ",
+              "Managed and perfected special messaging to end-users during the release of iOS8 to keep app ratings substantial and customer service complaints minimal. ",
+              "Implemented A/B testing, manipulating DOM elements using local storage. ",
+              "Setup an automated posting script to pass data to the back-end for used for delivering audience segmented push notifications called ECHO. ",
+              "Transitioned Woodwing applications on iPad into a highly configurable Backbone application utilizing the latest Adobe DPS JavaScript APIs. "
+            ]
+          }
+        },
+        {
+          "company": "New York Post",
+          "city": "New York, NY",
+          "role": {
+            "name": "Web Developer / Online Production",
+            "duration": "2010 - 2012",
+            "items": [
+              "Planned and executed changes to both iPhone and Android mobile applications. ",
+              "Troubleshooted and resolved web application issues escalated from customer support and other departments with a 100% success rate. ",
+              "Built internal web tools for ad placement within mobile applications. ",
+              "Created HTML email templates and newsletters for e-mail marketing campaigns. ",
+              "Executed and monitored standards for user interfaces, page design and graphics development. ",
+              "Compiled statistical information for special reports. (Omniture / Chartbeat / Newsbeat) ",
+              "Designed templates for the CMS to promote SEO and conversion best practices and the efficient use of HTML tags. ",
+              "Managed all social media programs, including Internet forums, blogs, social networking applications and message boards. "
+            ]
+          }
+        },
+        {
+          "company": "Acxiom Digital",
+          "city": "New York, NY",
+          "role": {
+            "name": "Content Specialist Lead / Solutions Developer",
+            "duration": "2005 - 2010",
+            "items": [
+              "Designed dynamic microsites for start-up clients and multi-national corporations. ",
+              "Produced engaging email marketing campaigns with user segmentation and personalization. ",
+              "Accomplished in optimizing graphics and web-safe colors for fast download time. ",
+              "Produced high quality work with recognition of 12+ months error-free and close attention to detail. ",
+              "Implemented a JavaScript search API for a leading hotel chain. ",
+              "Created support documentation for web and data projects. ",
+              "Automated a B2B solution using Oracle PL/SQL stored procedures to subscribe and unsubscribe ~5K member per day. ",
+              "Developed an ASP API to subscribe new members based off a preference center submission and triggering an automated confirmation email. "
+            ]
+          }
+        },
+        {
+          "company": "Linium",
+          "city": "Albany, NY",
+          "role": {
+            "name": "Service Desk Support Professional",
+            "duration": "2004 - 2005",
+            "items": [
+              "Demonstrated effective and consistent technical support. ",
+              "Implemented procedures which provided the tools to automate a testing process. ",
+              "Performed troubleshooting of computer systems and related equipment. "
+            ]
+          }
+        },
+        {
+          "company": "Colgate University",
+          "city": "Hamilton, NY",
+          "role": {
+            "name": "Desktop Support Team (Internship)",
+            "duration": "2004",
+            "items": "Provided base level technical support to faculty, staff, and students. "
+          }
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "Education",
+      "college": {
+        "name": "Morrisville State College",
+        "city": "Morrisville, NY",
+        "degrees": [
+          {
+            "type": "B.Tech, Information Technology",
+            "focus": "Web Development",
+            "year": "2004"
+          },
+          {
+            "type": "A.A.S., Computer Information Systems",
+            "year": "2001"
+          }
+        ]
+      }
+    },
+    {
+      "display": false,
+      "name": "Skills",
+      "type": {
+        "name": " ",
+        "skills": [
+          "Adobe DPS APIs (JavaScript SDKs)",
+          "Akamai AMP Premier",
+          "Ajax",
+          "Backbone.js",
+          "Charles",
+          "Chartbeat",
+          "CSS3",
+          "Dropbox",
+          "Google Analytics",
+          "Fiddler",
+          "Firebug",
+          "Handlebars",
+          "HTML5",
+          "JavaScript",
+          "JSON",
+          "jQuery",
+          "Methode (CMS)",
+          "MySQL",
+          "Omniture",
+          "Oracle SQL",
+          "Perl",
+          "Photoshop",
+          "PHP5",
+          "PostgreSQL",
+          "RequireJS",
+          "SASS",
+          "SailThru (ESP)",
+          "SiteCatalyst",
+          "Underscore.js",
+          "VBScript",
+          "XML",
+          "XSLT"
+        ]
+      }
+    },
+    {
+      "display": false,
+      "name": "Additional Information",
+      "jobs": [
+        {
+          "name": "Github",
+          "duration": " ",
+          "summary": "http://www.github.com/tkrofecheck"
+        },
+        {
+          "name": "LinkedIn",
+          "duration": " ",
+          "summary": "http://www.linkedin.com/in/tkrofecheck"
+        }
+      ]
+    },
+    {
+      "display": false,
+      "name": "Resume",
+      "title": "Download Hardcopy Resume",
+      "url": "https://www.dropbox.com/s/cthp6aa4uso0nes/TimKrofecheck_Resume.docx"
+    }
+  ]
+}

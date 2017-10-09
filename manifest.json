@@ -1,0 +1,12 @@
+{
+	"name": "Tim Krofecheck",
+	"short_name": "Krofecheck",
+	"start_url": ".",
+	"dir": "ltr",
+	"lang": "en-US",
+	"display": "browser",
+	"background_color": "#fff",
+	"description": "Test",
+	"orientation": "any",
+	"theme_color": "#db5945"
+}

@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"declaration": false,
+		"lib": "ES6",
+		"module": "amd",
+		"outFile": "build/scripts/app.js",
+		"removeComments": false,
+		"sourceMap": false,
+		"target": "ES6",
+		"typeRoots": [ "node_modules/@types/" ],
+		"types": [ "jquery", "underscore", "handlebars" ]
+	}, "files": [
+		"src/scripts/app.ts",
+		"src/scripts/app/main.ts"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}

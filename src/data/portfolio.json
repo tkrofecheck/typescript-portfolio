@@ -1,0 +1,336 @@
+{ 
+  "videoIcon": "/images/video.jpg",
+  "projects": [
+    {
+      "display": true,
+      "name": "Time Inc - Time For Kids Classroom App",
+      "folder": "timeinc-tfkclassroom",
+      "steps": [
+        {
+          "image": "1_tfkclass_welcome.jpg"
+        },
+        {
+          "image": "2_tfkclass_learnmore.jpg"
+        },
+        {
+          "image": "3_tfkclass_signin.jpg"
+        },
+        {
+          "image": "4_tfkclass_library.jpg"
+        },
+        {
+          "image": "5_tfkclass_settings.jpg"
+        },
+        {
+          "image": "6_tfkclass_issue.jpg"
+        },
+        {
+          "image": "7_tfkclass_teacherquizkey.jpg"
+        },
+        {
+          "image": "8_tfkclass_studentquiz.jpg"
+        },
+        {
+          "image": "9_tfkclass_samples.jpg"
+        },
+        {
+          "image": "10_tfkclass_faq.jpg"
+        },
+        {
+          "image": "11_tfkclass_legal.jpg"
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "Time Inc - Email",
+      "folder": "timeinc-email",
+      "steps": [
+        {
+          "image": "1_coastal.jpg",
+          "text": "Forgot Password Email (desktop version)"
+        },
+        {
+          "image": "2_coastal_mobile.jpg",
+          "text": "Forgot Password Email (mobile version)"
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "Time Inc - iPhone",
+      "folder": "timeinc-iphone",
+      "steps": [
+        {
+          "image": "1_pe_storefront.jpg",
+          "text": "Custom webview storefront. Separate code from iPad storefront. Latest issue in hero position along with back issues available in vertical scroll."
+        },
+        {
+          "image": "2_pe_issue.jpg",
+          "text": "Details about the issue when tapping the issue cover from the storefront. "
+        },
+        {
+          "image": "3_pe_library.jpg",
+          "text": "Library consisting of entitled issues purchased through the storefront, activated via print subscription, or entitled by other (online digital subscription without iTunes) means through login credentials. "
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "Time Inc - iPad",
+      "folder": "timeinc-ipad",
+      "steps": [
+        {
+          "image": "1_time_library.jpg",
+          "text": "Library consisting of issues to be purchased, downloaded, and viewed. The top horizontal section is a web viewer used for cross-selling to other brands and apps as well as advertising subscriptions, free samples, and special offers."
+        },
+        {
+          "image": "2_people_storefront.jpg",
+          "text": "The storefront for People is unique in that it is the only brand using this design. The storefront lists the most current issue along with recent back issues to be purchased and downloaded."
+        },
+        {
+          "image": "3_people_regform.jpg",
+          "text": "This is a registration form used to create a digital account. A digital account allows you to sign-in to different apps (iPad / Kindle Fire) to access purchased issues and subscriptions."
+        },
+        {
+          "image": "4_people_myaccount.jpg",
+          "text": "The my account section allows the user to navigation through account management from 'forgot password' to 'terms of service' and 'privacy policies'."
+        },
+        {
+          "image": "5_ew_storefront.jpg",
+          "text": "Similar to the People storefront, this is the shared designed across other Time Inc brands on iPad."
+        },
+        {
+          "image": "6_si_storefront.jpg",
+          "text": "Similar to the People storefront, this is the shared designed across other Time Inc brands on iPad."
+        },
+        {
+          "image": "7_si_preview.jpg",
+          "text": "Tapping a cover within the store that has not been downloaded, will open this preview. The preview provides a small example of what can be found within the issue, along with the option to purchase or download the issue."
+        },
+        {
+          "image": "8_amex_welcome.jpg",
+          "text": "First screen displayed. UX design helps user identify where to begin (subscribe digtally, browse issues, or access if you are a print subscriber)."
+        },
+        {
+          "image": "9_amex_storefront.jpg",
+          "text": "Unique to the traditional Time Inc storefronts, this is a new look to experiment what encourages users to browse, subscribe or buy single copies."
+        },
+        {
+          "image": "10_amex_issue.jpg",
+          "text": "Screenshot with a swipable UX to allow users to see what they are buying, before they commit to a purchase."
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "Time Inc - Kindle Fire",
+      "folder": "timeinc-kindle",
+      "steps": [
+        {
+          "image": "1_people_storefront.jpg"
+        },
+        {
+          "image": "2_people_storefront2.jpg"
+        },
+        {
+          "image": "3_people_signin.jpg"
+        }
+      ]
+    },
+    {
+      "display": true,
+      "text": "",
+      "name": "Time Inc. - Miscellaneous Web Projects",
+      "folder": "timeinc-misc",
+      "steps": [
+        {
+          "image": "1_si_lookback.jpg",
+          "text": "SI Lookback (SI Vault) standalone jQuery page. - visit at http://subscription-assets.timeinc.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/si-lookback1113/si-lookback.html"
+        },
+        {
+          "image": "2_ew_webapp.jpg",
+          "text": "Entertainment Weekly - Adobe DPS Web Application. - visit at https://subscription.ew.com/storefront/site/ew-digitalmagazine/login.html"
+        },
+        {
+          "image": "3_amazon_astore.jpg",
+          "text": "Amazon Affiliate Store - iFrame pulled into Time Inc hosted landing page. - visit at http://subscription-assets.timeinc.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/amz-timebooks1114/lp.html"
+        },
+        {
+          "image": "4_tfk_contentviewer.jpg",
+          "text": "Sample Web Reader (images/video) to replace Adobe Flash reader for cross-browser support (iPad included). - visit at http://goo.gl/NdMa4A"
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "New York Post - iPad Ad Counts",
+      "folder": "adcounts",
+      "steps": [
+        {
+          "image": "1_home.jpg",
+          "text": "Used by Ad Operations, this tool allows users to setup ad placements for different issues within the iPad app."
+        },
+        {
+          "image": "2_select_issue.jpg",
+          "text": "A dropdown list makes it easy for Ad Operations to find the issue they need to work in, or if they need to refer to a past \"archived\" issue."
+        },
+        {
+          "image": "3_issue_start.jpg",
+          "text": "Selecting the current or a future issue allows Ad Operations to start setting up new ads."
+        },
+        {
+          "image": "4_click_save_and_see_json-1.jpg",
+          "text": "After creating ads, clicking \"Save\" will allow you to see the JSON object (as a string)."
+        },
+        {
+          "image": "5_click_save_and_see_json-2.jpg",
+          "text": "Here is a JSON object (as a string) that one could use for troubleshooting if there are any problems in the database."
+        },
+        {
+          "image": "6_pull_saved_ad_info.jpg",
+          "text": "Here is an inspection on an XHR to pull in an archived issue, producing one large JSON object with more details."
+        }
+      ],
+      "video": {
+        "title": "Ad Counts Demonstration.",
+        "src": "adcounts.swf"
+      }
+    },
+    {
+      "display": true,
+      "name": "New York Post - Daily e-Newsletter",
+      "folder": "newsletter",
+      "steps": [
+        {
+          "image": "1_newsletter.jpg",
+          "text": "eNewsletter (section 1/4) - optimized for iPhone using media query"
+        },
+        {
+          "image": "2_newsletter.jpg",
+          "text": "eNewsletter (section 2/4) - optimized for iPhone using media query"
+        },
+        {
+          "image": "3_newsletter.jpg",
+          "text": "eNewsletter (section 3/4) - optimized for iPhone using media query"
+        },
+        {
+          "image": "4_newsletter.jpg",
+          "text": "eNewsletter (section 4/4) - optimized for iPhone using media query"
+        }
+      ],
+      "feed": {
+        "title": "Newsletter JSON Feed (6/7/12)",
+        "description": "Daily Newsletter is setup as handsfree automation populating content from this feed.",
+        "url": "data/newsletter-feed.json"
+      }
+    },
+    {
+      "display": true,
+      "name": "New York Post - Email Management",
+      "folder": "nyp-email",
+      "steps": [
+        {
+          "image": "signup.jpg",
+          "text": "Signup Page - Users may subscribe to receive New York Post emails. http://nypost.com/newsletter"
+        },
+        {
+          "image": "emailpref.jpg",
+          "text": "Email Preferences - Subscribers may modify what email they receive. "
+        },
+        {
+          "image": "move_legacy.jpg",
+          "text": "User Management - Users in the legacy system must use this API to move from legacy into the new list accepting a new privacy policy. This allows the New York Post to control lists more efficiently. "
+        },
+        {
+          "image": "email_signup_widget.jpg",
+          "text": "Email Signup Widget - API connection to SailThru, signs up to multiple lists, assigns multiple variables per user and sends a welcome email."
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "New York Post - websites/projects",
+      "folder": "newyorkpost",
+      "steps": [
+        {
+          "image": "newyorkpost.jpg",
+          "text": "New York Post - visit at http://www.nypost.com"
+        },
+        {
+          "image": "pagesixmag.jpg",
+          "text": "Page Six Magazine - visit at http://www.nypost.com/pagesixmag"
+        },
+        {
+          "image": "alexa.jpg",
+          "text": "Alexa - visit at http://www.nypost.com/alexa"
+        },
+        {
+          "image": "classroomextra.jpg",
+          "text": "Classroom Extra"
+        }
+      ]
+    },
+    {
+      "display": false,
+      "name": "Dynamic Newsletters / Microsite - Wyndham Worldwide Hotels",
+      "folder": "wyndham",
+      "steps": [
+        {
+          "image": "email_hojo.jpg",
+          "text": "Howard Johnson&reg; - Utilizing Classic ASP, VBscript, JavaScript and HTML"
+        },
+        {
+          "image": "email_wingate.jpg",
+          "text": "Wingate by Wyndham&reg; - Utilizing Classic ASP, VBscript, JavaScript and HTML"
+        },
+        {
+          "image": "page_ramada.jpg",
+          "text": "Ramada&reg; Worldwide - Utilizing Ajax, Classic ASP, VBscript, JavaScript and HTML"
+        }
+      ]
+    },
+    {
+      "display": false,
+      "name": "Custom Microsites",
+      "folder": "microsites",
+      "steps": [
+        {
+          "image": "baa.jpg",
+          "text": "BAA Airports Limited - Utilizing Classic ASP, VBscript and HTML"
+        },
+        {
+          "image": "comcast.jpg",
+          "text": "Comcast&reg; - Utilizing Classic ASP, VBscript, Flash, JavaScript and HTML"
+        },
+        {
+          "image": "fedex.jpg",
+          "text": "FedEx&reg; - Utilizing Classic ASP, VBscript, JavaScript, CSS and HTML"
+        },
+        {
+          "image": "royal_caribbean.jpg",
+          "text": "Royal Caribbean&reg; - Utilizing Classic ASP, VBscript, JavaScript and DHTML"
+        },
+        {
+          "image": "sprint.jpg",
+          "text": "Sprint&reg; - Utilizing Classic ASP, VBscript, JQuery, JavaScript and HTML"
+        },
+        {
+          "image": "upromise.jpg",
+          "text": "Upromise&reg; - Utilizing Classic ASP, VBscript, JavaScript and HTML"
+        }
+      ]
+    },
+    {
+      "display": true,
+      "name": "Wedding Website",
+      "folder": "personal-wedding",
+      "steps": [
+        {
+          "image": "1_personal_wedding.jpg",
+          "text": "Wedding website designed for family and friends. - visit at http://wedding.krofecheck.com"
+        }
+      ]
+    }
+  ]
+}
