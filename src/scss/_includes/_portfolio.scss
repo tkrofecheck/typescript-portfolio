@@ -1,0 +1,19 @@
+/* Portfolio Section - Specific Styling Only */
+#portfolio {
+	width: inherit;
+
+	.grid-item {
+		img {
+			box-sizing: border-box;
+			outline: 0px solid red;
+			outline-offset: 0px;
+		}
+
+		&:hover img {
+			outline: 9px solid #43b2c4;
+			outline-offset: -9px;
+			box-shadow: none;
+			transition: outline-offset .3s, outline-width .3s;
+		}
+	}
+}

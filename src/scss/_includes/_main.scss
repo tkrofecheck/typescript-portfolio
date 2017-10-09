@@ -1,0 +1,32 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: calc(100vw - 15px);
+    img {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    .menu {
+        position: fixed;
+        display: flex;
+        .item {
+            width: auto;
+        }
+    }
+}
+
+.menu .menu--state-expand {
+    flex-direction: row;
+}
+
+.menu .menu--state-collapse {
+    flex-direction: column;
+}
